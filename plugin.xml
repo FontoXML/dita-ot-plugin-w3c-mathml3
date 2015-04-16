@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.w3c.mathml3">
+	<feature extension="dita.specialization.catalog.relative" file="catalog.xml"/>
+</plugin>
